@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah All Mamun Siam</h1>
 <h3 align="center">A passionate Machine Learning and Deep learning Engineer</h3>
-<img align="right alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw2I2osVqh6_rYL9w2skrUYg&ust=1714716244815000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCJufel7oUDFQAAAAAdAAAAABAj">
+<img align="right alt="coding" width="400" src="https://images.app.goo.gl/y5y6iwhSPeVt8hwm7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssiamahmed18&label=Profile%20views&color=0e75b6&style=flat" alt="ssiamahmed18" /> </p>
 
